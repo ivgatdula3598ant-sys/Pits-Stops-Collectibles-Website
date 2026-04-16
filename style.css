@@ -238,7 +238,6 @@ footer {
     color: white;
     text-align: center;
     padding: 20px;
-    display: block;
-    clear: both;
+    margin-top: auto;
     
 }
