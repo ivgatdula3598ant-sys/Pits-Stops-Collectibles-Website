@@ -229,3 +229,17 @@ header {
     font-size: 1.1rem;
     line-height: 1.5;
 }
+
+footer {
+    width: 100%;
+    background: #111;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    display: block;
+}
+
+footer p {
+    margin: 5px 0;
+}
