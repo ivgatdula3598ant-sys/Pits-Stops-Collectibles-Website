@@ -238,10 +238,7 @@ footer {
     color: white;
     text-align: center;
     padding: 20px;
-    margin-top: auto;
+    display: block;
+    clear: both;
     
-}
-
-footer p {
-    margin: 5px 0;
 }
